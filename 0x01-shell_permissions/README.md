@@ -1,2 +1,1 @@
-
-Script that adds excute permissions to everybody
+Script that adds sets permission a file
