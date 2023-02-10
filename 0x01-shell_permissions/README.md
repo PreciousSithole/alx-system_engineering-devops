@@ -1,1 +1,1 @@
-Script that prints new file
+Script that adds execue permissions of new file owner
