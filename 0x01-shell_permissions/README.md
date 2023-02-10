@@ -1,1 +1,1 @@
-Script that prints the user groups
+Script that prints changes to new file owner
