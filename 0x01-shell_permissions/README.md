@@ -1,1 +1,1 @@
-Script that adds sets permission a file
+Script that prints mirror files
