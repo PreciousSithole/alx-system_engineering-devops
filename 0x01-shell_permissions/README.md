@@ -1,1 +1,1 @@
-Script that prints changes to new file owner
+Script that prints new file
