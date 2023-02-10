@@ -1,1 +1,2 @@
-Script that adds execue permissions of new file owner
+
+Script that adds execute multiple permission
