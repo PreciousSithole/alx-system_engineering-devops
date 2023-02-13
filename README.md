@@ -1,1 +1,1 @@
-Task 0, Where am I
+Switching to current user
